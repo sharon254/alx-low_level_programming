@@ -52,5 +52,5 @@ For numbers which are multiples of both three and five print FizzBuzz.<br/>
 Each number or word should be separated by a space<br/>
 **10. Triangles**<br/>
 A function that prints a triangle, followed by a new line.<br/>
-** 11. The problem of distinguishing prime numbers from composite numbers and of resolving the latter into their prime factors is known to be one of the most important and useful in arithmetic** <br/>
+**11. The problem of distinguishing prime numbers from composite numbers and of resolving the latter into their prime factors is known to be one of the most important and useful in arithmetic** <br/>
 A program that finds and prints the largest prime factor of the number 612852475143, followed by a new line.<br/>
