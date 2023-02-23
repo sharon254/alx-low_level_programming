@@ -1,4 +1,4 @@
-** 0.isupper <br/> **
+**0.isupper**
 A function that checks for uppercase character.<br/>
 Prototype: int _isupper(int c);<br/>
 Returns 1 if c is uppercase<br/>
