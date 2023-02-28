@@ -2,9 +2,7 @@
 
 /**
 * print_rev - swaps integers with pointers.
-*
 * @s: is pointer to a char.
-*
 * char: is a data type.
 * Return: Always 0.
 */
