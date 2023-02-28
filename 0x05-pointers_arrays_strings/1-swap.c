@@ -2,7 +2,6 @@
 
 /**
 * swap_int - swaps integers with pointers.
-*
 * @a: is pointer to an int.
 * @b: is pointer to an int.
 * Return: Always 0.
