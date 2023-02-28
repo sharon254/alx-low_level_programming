@@ -2,9 +2,7 @@
 
 /**
 * puts_half - Swaps integers wih pointers.
-*
 * @str: is a pointer to a char
-*
 * Return: Always 0.
 */
 
