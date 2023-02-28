@@ -1,12 +1,9 @@
 #include "main.h"
 
 /**
-* _strcpy - Swaps integers wih pointers.
-*
+* _strcpy - Swaps integers wih pointers
 * @dest: is a pointer to a char
-*
 * @src: is a pointer to a char
-*
 * Return: Always 0.
 */
 
