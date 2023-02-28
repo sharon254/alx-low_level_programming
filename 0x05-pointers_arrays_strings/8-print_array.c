@@ -3,11 +3,8 @@
 
 /**
 * print_array - Swaps integers wih pointers.
-*
 * @a: is a pointer to a char
-*
 * @n: is an int
-*
 * Return: Always 0.
 */
 
